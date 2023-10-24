@@ -9,16 +9,17 @@
       "dogBreed": "Giant Schnauzer",
       "id": 2
     }
+    
   ],
   "cats": [{
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": 3
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": 4
     }
   ],
   "users": [],
@@ -28,3 +29,11 @@
     "id": 9000
   }]
 }
+
+"users": [
+{
+  "id": 633,
+  "name": "Steve",
+  "email": "steve@steve.com",
+  
+}]
